@@ -1,4 +1,4 @@
-package hello.algorithmjava.daily.수열과구간쿼리3;
+package hello.algorithmjava.daily.day20250829.수열과구간쿼리3;
 
 class Solution {
     public int[] solution(int[] arr, int[][] queries) {
