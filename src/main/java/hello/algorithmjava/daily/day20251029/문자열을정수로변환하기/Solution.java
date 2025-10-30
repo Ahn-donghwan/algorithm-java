@@ -1,4 +1,4 @@
-package hello.algorithmjava.daily.day20251029;
+package hello.algorithmjava.daily.day20251029.문자열을정수로변환하기;
 
 class Solution {
     public int solution(String n_str) {
